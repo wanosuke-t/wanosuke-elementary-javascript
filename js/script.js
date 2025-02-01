@@ -35,3 +35,25 @@
 // document.querySelector("#js-btn").addEventListener("click", function () {
 //   alert("ボタンがクリックされました");
 // });
+
+// jQuery("主語").動詞("補語");
+
+// document.querySelector("#js-title").innerText = "Daily Trial";
+
+// jQuery("#js-title").text("Daily Trial");
+
+// jQuery("#js-title").css("color", "red");
+// jQuery(".text").css("color", "red");
+// jQuery("h1").css("color", "red");
+// jQuery("[href]").css("color", "red");
+// jQuery("h1, h2").css("color", "red");
+// const elements = jQuery(".text");
+// elements.each(function () {
+//   console.log(jQuery(this).text());
+// })
+
+// 子孫要素のPタグ取得
+// jQuery("#js-section").find("p").css("color", "red");
+
+// 子要素のPタグ取得
+// jQuery("#js-section").children("p").css("color", "red");
